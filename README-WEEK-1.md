@@ -50,7 +50,7 @@ Materi & Referensi :
 
 Tugas :
 - :anchor:
-[[**Exercises 1**] Codecademy Course - HTML](https://https://github.com/azputra/h8-p0-w1/blob/master/exercises-1.png)
+[[**Exercises 1**] Codecademy Course - HTML](github.com/azputra/h8-p0-w1/blob/master/exercises-1.png)
 - 💪
 [[**Latihan Pribadi 1**] Membuat Halaman HTML Sederhana](modules/anchor-laman-web-pertamaku.md)
 
@@ -62,7 +62,7 @@ Materi & Referensi :
 [Mempelajari dasar CSS3](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/css3-basics.md)
 
 Tugas :
-- :anchor: [[**Exercises 2**] Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](https://www.codecademy.com/learn/learn-css)
+- :anchor: [[**Exercises 2**] Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](https://github.com/azputra/h8-p0-w1/blob/master/exercises-2.png)
 - 💪 [[**Latihan Pribadi 2**] Menghias HTML dengan CSS](modules/anchor-css-selector-and-styling.md)
 - 💪 [[**Latihan Pribadi 3**] Membuat Layout dan Desain Halaman Web dengan CSS](modules/anchor-css-layouting.md)
 
@@ -99,7 +99,7 @@ Materi & Referensi :
 
 Tugas :
 - :anchor:
-[[**Exercise 3**] - Website yang dihosting dengan Github Pages](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/github-pages-rev.md)
+[[**Exercise 3**] - Website yang dihosting dengan Github Pages](https://azputra.github.io/h8-p0-w1/individu/index.html)
 -  [Blogging teknikal terkait skill pekan ini](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/blog.md)
 
 Selamat memulai petualanganmu yang lebih nyata dari sebelumnya! Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
