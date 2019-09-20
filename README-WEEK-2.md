@@ -81,7 +81,7 @@ Materi & Referensi :
 Tugas :
 
 - :anchor:
-[[**Exercises 8**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions)](https://www.codecademy.com/learn/learn-javascript)
+[[**Exercises 8**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions)](https://github.com/azputra/h8-p0-w2/blob/master/exercises-8.png)
 - :anchor:
 [[**Exercises 9**] Berlatih Penggunaan Functions](https://github.com/azputra/h8-p0-w2/blob/master/exercises-9.js)
 
