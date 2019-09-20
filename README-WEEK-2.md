@@ -23,7 +23,7 @@ Materi & Referensi :
 Tugas :
 
 - :anchor:
-[[**Exercises 1**] Berlatih dengan Pseudocode](modules/challenge-main-pseudocode.md)
+[[**Exercises 1**] Berlatih dengan Pseudocode](https://github.com/azputra/h8-p0-w2/blob/master/exercises-1.txt)
 
 ## Selasa - Dunia JavaScript
 
@@ -45,11 +45,11 @@ Materi & Referensi :
 Tugas :
 
 - :anchor:
-[[**Exercises 2**] Codecademy JavaScript Building Blocks: Unit 1 and 2 - Intro and Control Flow only](https://www.codecademy.com/learn/learn-javascript)
+[[**Exercises 2**] Codecademy JavaScript Building Blocks: Unit 1 and 2 - Intro and Control Flow only](https://github.com/azputra/h8-p0-w2/blob/master/exercises-2.png)
 - :anchor:
-[[**Exercises 3**] Mengenal penggunaan Conditional `if-else` dalam JavaScript](modules/anchor-menggunakan-if-else.md)
+[[**Exercises 3**] Mengenal penggunaan Conditional `if-else` dalam JavaScript](https://github.com/azputra/h8-p0-w2/blob/master/exercises-3.js)
 - :anchor:
-[[**Exercises 4**] Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](modules/anchor-switch-case.md)
+[[**Exercises 4**] Mengenal penggunaan Conditional (Switch-Case) dalam JavaScript](https://github.com/azputra/h8-p0-w2/blob/master/exercises-4.js)
 
 ## Rabu - Mengenal Tipe data String dan Konsep Looping atau Perulangan
 
@@ -64,9 +64,9 @@ Materi & Referensi :
 [Memahami Built-in Object Math](modules/math-object-js.md)
 
 Tugas :
-- :anchor: [[**Exercises 5**] Bermain dengan String di JavaScript](modules/anchor-main-string.md)
-- :anchor: [[**Exercises 6**] Berlatih Perulangan di JavaScript](modules/anchor-main-loop.md)
-- :anchor: [[**Exercises 7**] Perulangan - Play with Asterisks](modules/anchor-main-loop-asterisks.md)
+- :anchor: [[**Exercises 5**] Bermain dengan String di JavaScript](https://github.com/azputra/h8-p0-w2/blob/master/exercises-5.js)
+- :anchor: [[**Exercises 6**] Berlatih Perulangan di JavaScript](https://github.com/azputra/h8-p0-w2/blob/master/exercises-6.js)
+- :anchor: [[**Exercises 7**] Perulangan - Play with Asterisks](https://github.com/azputra/h8-p0-w2/blob/master/exercises-7.js)
 
 ## Kamis - Menggunakan Konsep Functions
 
@@ -83,18 +83,18 @@ Tugas :
 - :anchor:
 [[**Exercises 8**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 3 - Functions)](https://www.codecademy.com/learn/learn-javascript)
 - :anchor:
-[[**Exercises 9**] Berlatih Penggunaan Functions](modules/anchor-basic-function.md)
+[[**Exercises 9**] Berlatih Penggunaan Functions](https://github.com/azputra/h8-p0-w2/blob/master/exercises-9.js)
 
 ## Jumat - Solve Problems menggunakan JavaScript
 
 - :anchor:
-[[**Exercises 10**] Bandingkan Angka](/modules/challenge-bandingkan-angka.md)
+[[**Exercises 10**] Bandingkan Angka](https://github.com/azputra/h8-p0-w2/blob/master/exercises-10.js
 - :anchor:
-[[**Exercises 11**] Balik Kata](/modules/challenge-balik-kata.md)
+[[**Exercises 11**] Balik Kata](https://github.com/azputra/h8-p0-w2/blob/master/exercises-11.js)
 - :anchor:
-[[**Exercises 12**] Konversi Menit](/modules/challenge-konversi-menit.md)
+[[**Exercises 12**] Konversi Menit](https://github.com/azputra/h8-p0-w2/blob/master/exercises-12.js)
 - :anchor:
-[[**Exercises 13**] X dan O](/modules/challenge-x-dan-o.md)
+[[**Exercises 13**] X dan O](https://github.com/azputra/h8-p0-w2/blob/master/exercises-13.js)
 
 <!-- ## Kamis - mengenal Array dan Memperdalam String
 Sebelumnya, kita telah belajar berbagai macam tipe data yang kita tampung di variabel JavaScript dan kita bermain operasi dengannya, menggunakan conditional, bahkan hingga looping. Sekarang, saatnya kita berkenalan dengan Array, tipe data yang sangat berguna untukmu dalam membuat penampungan data yang terstruktur.
