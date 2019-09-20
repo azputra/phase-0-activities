@@ -88,7 +88,7 @@ Tugas :
 ## Jumat - Solve Problems menggunakan JavaScript
 
 - :anchor:
-[[**Exercises 10**] Bandingkan Angka](https://github.com/azputra/h8-p0-w2/blob/master/exercises-10.js
+[[**Exercises 10**] Bandingkan Angka](https://github.com/azputra/h8-p0-w2/blob/master/exercises-10.js)
 - :anchor:
 [[**Exercises 11**] Balik Kata](https://github.com/azputra/h8-p0-w2/blob/master/exercises-11.js)
 - :anchor:
