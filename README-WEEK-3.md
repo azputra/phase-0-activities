@@ -25,13 +25,13 @@ Materi & Referensi :
 Tugas :
 
 - :anchor:
-[[**Exercises 1**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 4 - Arrays)](https://www.codecademy.com/learn/learn-javascript)
+[[**Exercises 1**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 4 - Arrays)](https://github.com/azputra/h8-p0-w3/blob/master/exercises1.png)
 - :anchor:
-[[**Exercises 2**] Tantangan Array 1 (Mengakses Nilai dalam Array)](modules/anchor-akses-array.md)
+[[**Exercises 2**] Tantangan Array 1 (Mengakses Nilai dalam Array)](https://github.com/azputra/h8-p0-w3/blob/master/exercises-2.js)
 - :anchor:
-[[**Exercises 3**] Tantangan Array 2 (Melooping menggunakan Array)](modules/anchor-loop-array.md)
+[[**Exercises 3**] Tantangan Array 2 (Melooping menggunakan Array)](https://github.com/azputra/h8-p0-w3/blob/master/exercises-3.js)
 - :anchor:
-[[**Exercises 4**] Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](modules/anchor-mixed-array.md)
+[[**Exercises 4**] Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort)](https://github.com/azputra/h8-p0-w3/blob/master/exercises-4.js)
 
 ## Rabu - Logic Challenges Refresh
 
@@ -46,13 +46,13 @@ Materi & Referensi :
 
 Tugas :
 - :anchor:
-[[**Exercises 5 (Auto)**] Palindrome](/modules/challenge-palindrome.md)
+[[**Exercises 5 (Auto)**] Palindrome](https://github.com/azputra/h8-p0-w3/blob/master/exercises-5.js)
 - :anchor:
-[[**Exercises 6 (Auto)**] Palindrome Angka](/modules/challenge-palindrome-angka.md)
+[[**Exercises 6 (Auto)**] Palindrome Angka](https://github.com/azputra/h8-p0-w3/blob/master/exercises-6.js)
 - :anchor:
-[[**Exercises 7 (Auto)**] Hitung Jumlah Kata](/modules/challenge-hitung-jumlah-kata.md)
+[[**Exercises 7 (Auto)**] Hitung Jumlah Kata](https://github.com/azputra/h8-p0-w3/blob/master/exercises-7.js)
 - :anchor:
-[[**Exercises 8 (Auto)**] Pasangan Angka Terbesar](/modules/challenge-pasangan-terbesar.md)
+[[**Exercises 8 (Auto)**] Pasangan Angka Terbesar](https://github.com/azputra/h8-p0-w3/blob/master/exercises-8.js)
 
 ## Kamis - More Logic Challenges
 
@@ -61,13 +61,13 @@ Hari baru, tantangan baru. Setelah belajar tentang array and solve berbagai prob
 Tugas :
 
 - :anchor:
-[[**Exercises 9 (Auto)**] Cari Mean](/modules/challenge-cari-mean.md)
+[[**Exercises 9 (Auto)**] Cari Mean](https://github.com/azputra/h8-p0-w3/blob/master/exercises-9.js)
 - :anchor:
-[[**Exercises 10 (Auto)**] Perkalian Unik](/modules/challenge-perkalian-unik.md)
+[[**Exercises 10 (Auto)**] Perkalian Unik](https://github.com/azputra/h8-p0-w3/blob/master/exercises-10.js)
 - :anchor:
-[[**Exercises 11 (Auto)**] Deret Aritmatika](/modules/challenge-deret-aritmatika.md)
+[[**Exercises 11 (Auto)**] Deret Aritmatika](https://github.com/azputra/h8-p0-w3/blob/master/exercises-11.js)
 - :anchor:
-[[**Exercises 12 (Auto)**] Deret Geometri](/modules/challenge-deret-geometri.md)
+[[**Exercises 12 (Auto)**] Deret Geometri](https://github.com/azputra/h8-p0-w3/blob/master/exercises-12.js)
 
 ## Jumat - More Arrays + Multidimensional Array
 
@@ -76,11 +76,11 @@ Kamu telah mencoba berbagai macam soal, menggunakan array maupun tidak. Tentunya
 Hari ini, kamu akan bermain dengan array dan bentuk selanjutnya, yaitu array multidimensi. Tenang saja, array multidimensi konsep nya sama persis dengan array satu dimensi!
 
 - :anchor:
-[[**Exercises 13 (Auto)**] Target Terdekat](/modules/challenge-target-terdekat.md)
+[[**Exercises 13 (Auto)**] Target Terdekat](https://github.com/azputra/h8-p0-w3/blob/master/exercises-13.js)
 - :anchor:
-[[**Exercises 14**] Mengelompokkan Angka](modules/challenge-kelompok-angka.md)
+[[**Exercises 14**] Mengelompokkan Angka](https://github.com/azputra/h8-p0-w3/blob/master/exercises-14.js)
 - :anchor:
-[[**Exercises 15**] Mengelompokkan Hewan](modules/challenge-kelompok-hewan.md)
+[[**Exercises 15**] Mengelompokkan Hewan](https://github.com/azputra/h8-p0-w3/blob/master/exercises-15.js)
 
 Tugas :
 
