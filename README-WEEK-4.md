@@ -52,7 +52,7 @@ Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke 
 ## Jumat - Mastered Array and Object
 - :anchor: [[**Exercises 13**] Deep Sum](https://github.com/azputra/h8-p0-w4/blob/master/exercises-13.js)
 - :anchor: [[**Exercises 14**] Naik Angkot](https://github.com/azputra/h8-p0-w4/blob/master/exercises-14.js)
-- :anchor: [[**Exercises 15**] Highest Score](https://github.com/azputra/h8-p0-w4/blob/master/exercises-15.js
+- :anchor: [[**Exercises 15**] Highest Score](https://github.com/azputra/h8-p0-w4/blob/master/exercises-15.js)
 - :anchor: [[**Exercises 16**] Graduates](https://github.com/azputra/h8-p0-w4/blob/master/exercises-16.js)
 
 ## Sabtu dan Minggu
