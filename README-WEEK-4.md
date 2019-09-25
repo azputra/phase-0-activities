@@ -17,43 +17,43 @@ Tiba saatnya kita melakukan Live Coding yang bertujuan untuk menguji kemampuanmu
 Hari baru, tantangan baru! terus tantang diri kamu untuk mengahadapi tantangan baru minggu ini dan percayalah semuanya akan terbalaskan pada waktunya :smile:
 
 - :anchor:
-[[**Exercises 1**] Angka Prima](/modules/challenge-angka-prima.md)
+[[**Exercises 1**] Angka Prima](https://github.com/azputra/h8-p0-w4/blob/master/exercises-1.js)
 - :anchor:
-[[**Exercises 2**] Faktor Persekutuan Terbesar](/modules/challenge-faktor-persekutuan-terbesar.md)
+[[**Exercises 2**] Faktor Persekutuan Terbesar](https://github.com/azputra/h8-p0-w4/blob/master/exercises-2.js)
 - :anchor:
-[[**Exercises 3**] Cari Median](/modules/challenge-cari-median.md)
+[[**Exercises 3**] Cari Median](https://github.com/azputra/h8-p0-w4/blob/master/exercises-3.js)
 - :anchor:
-[[**Exercises 4**] Cari Modus](/modules/challenge-cari-modus.md)
+[[**Exercises 4**] Cari Modus](https://github.com/azputra/h8-p0-w4/blob/master/exercises-4.js)
 - :anchor:
-[[**Exercises 5**] Ubah Huruf](/modules/challenge-ubah-huruf.md)
+[[**Exercises 5**] Ubah Huruf](https://github.com/azputra/h8-p0-w4/blob/master/exercises-5.js)
 
 ## Rabu - Built-in Functions Mastery
 Hari ketiga di pekan keempat. Keep up the good work! Banyak tantangan menunggu seminggu ke depan :cool:
 
 - :anchor:
-[[**Exercises 6**] Digit Perkalian Minimum](/modules/challenge-digit-perkalian-minimum.md)
+[[**Exercises 6**] Digit Perkalian Minimum](https://github.com/azputra/h8-p0-w4/blob/master/exercises-6.js)
 - :anchor:
-[[**Exercises 7**] Urutkan Abjad](/modules/challenge-urutkan-abjad.md)
+[[**Exercises 7**] Urutkan Abjad](https://github.com/azputra/h8-p0-w4/blob/master/exercises-7.js)
 - :anchor:
-[[**Exercises 8**] Tukar Ukuran](/modules/challenge-tukar-besar-kecil.md)
+[[**Exercises 8**] Tukar Ukuran](https://github.com/azputra/h8-p0-w4/blob/master/exercises-8.js)
 - :anchor:
-[[**Exercises 9**] Cek AB](/modules/challenge-cek-ab.md)
+[[**Exercises 9**] Cek AB](https://github.com/azputra/h8-p0-w4/blob/master/exercises-9.js)
 
 ## Kamis - Object Literal
 Lanjutkan perjuanganmu di tengah banyaknya tantangan yang diberikan di pekan ke empat.
 - :anchor:
-[[**Exercises 10**] Change me](modules/challenge-object-literal.md)
+[[**Exercises 10**] Change me](https://github.com/azputra/h8-p0-w4/blob/master/exercises-10.js)
 - :anchor:
-[[**Exercises 11**] Shopping Time!](modules/challenge-shopping-time.md)
+[[**Exercises 11**] Shopping Time!](https://github.com/azputra/h8-p0-w4/blob/master/exercises-11.js)
 - :anchor:
-[[**Exercises 12**] Toko X](modules/challenge-toko-x.md)
+[[**Exercises 12**] Toko X](https://github.com/azputra/h8-p0-w4/blob/master/exercises-12.js)
 
 
 ## Jumat - Mastered Array and Object
-- :anchor: [[**Exercises 13**] Deep Sum](modules/challenge-deep-sum.md)
-- :anchor: [[**Exercises 14**] Naik Angkot](modules/challenge-naik-angkot.md)
-- :anchor: [[**Exercises 15**] Highest Score](modules/challenge-highest-score.md)
-- :anchor: [[**Exercises 16**] Graduates](modules/challenge-graduates.md)
+- :anchor: [[**Exercises 13**] Deep Sum](https://github.com/azputra/h8-p0-w4/blob/master/exercises-13.js)
+- :anchor: [[**Exercises 14**] Naik Angkot](https://github.com/azputra/h8-p0-w4/blob/master/exercises-14.js)
+- :anchor: [[**Exercises 15**] Highest Score](https://github.com/azputra/h8-p0-w4/blob/master/exercises-15.js
+- :anchor: [[**Exercises 16**] Graduates](https://github.com/azputra/h8-p0-w4/blob/master/exercises-16.js)
 
 ## Sabtu dan Minggu
 
