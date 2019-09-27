@@ -25,7 +25,7 @@ Materi & Referensi :
 Tugas :
 
 - :anchor:
-[[**Exercises 1**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 4 - Arrays)](https://github.com/azputra/h8-p0-w3/blob/master/exercises1.png)
+[[**Exercises 1**] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 4 - Arrays)](https://github.com/azputra/h8-p0-w3/blob/master/exercises-1.png)
 - :anchor:
 [[**Exercises 2**] Tantangan Array 1 (Mengakses Nilai dalam Array)](https://github.com/azputra/h8-p0-w3/blob/master/exercises-2.js)
 - :anchor:
